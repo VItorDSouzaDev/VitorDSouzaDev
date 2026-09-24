@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,50:111827,100:00F5FF&text=SYSTEM%20ONLINE&fontColor=00F5FF&fontSize=48&fontAlignY=38&desc=VITOR%20ALEXANDRE%20%7C%20SOFTWARE%20DEVELOPER&descAlignY=62&descSize=17&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,50:1A102B,100:A855F7&text=SYSTEM%20ONLINE&fontColor=E879F9&fontSize=48&fontAlignY=38&desc=VITOR%20ALEXANDRE%20%7C%20COMPUTER%20SCIENCE%20STUDENT&descAlignY=62&descSize=17&animation=twinkling" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Initializing+Developer+System...;Java+%7C+C%23+%7C+.NET+%7C+React;Building+the+future%2C+one+commit+at+a+time.;Code.+Learn.+Build.+Repeat.;System+ready+%E2%96%B6" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Initializing+Student+System...;C%23+%7C+.NET+%7C+React+%7C+TypeScript;Learning.+Building.+Improving.;Exploring+backend+development...;System+ready+%E2%96%B6" alt="Typing Animation"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&logo=statuspage&logoColor=black"/>
-<img src="https://img.shields.io/badge/COMPUTER%20SCIENCE-4th%20SEMESTER-111827?style=for-the-badge&logo=academia&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-111827?style=for-the-badge&logo=codeforces&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-A855F7?style=for-the-badge&logo=statuspage&logoColor=black"/>
+<img src="https://img.shields.io/badge/COMPUTER%20SCIENCE-4th%20SEMESTER-1A102B?style=for-the-badge&logo=academia&logoColor=E879F9"/>
+<img src="https://img.shields.io/badge/MAIN%20FOCUS-C%23%20%2F%20.NET-1A102B?style=for-the-badge&logo=dotnet&logoColor=A855F7"/>
 
 </div>
 
@@ -20,69 +20,83 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                    DEVELOPER PROFILE                        ║
+║                    STUDENT PROFILE                           ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  Name       : Vitor Alexandre                               ║
-║  Education  : Computer Science — 4th Semester               ║
-║  Main Stack : Java + C# / .NET                              ║
-║  Frontend   : React + JavaScript + TypeScript                ║
-║  English    : Intermediate — Advanced                        ║
-║  Focus      : Software Development                           ║
+║  Name        : Vitor Alexandre                              ║
+║  Education   : Computer Science — 4th Semester              ║
+║  Main Focus  : C# / .NET                                    ║
+║  Front-end   : React + TypeScript                           ║
+║  Academic    : Java + Python + C                            ║
+║  English     : Intermediate — Advanced                      ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 ## `> about_me`
 
-🎓 Atualmente no **4º período de Ciência da Computação**.
+🎓 Atualmente cursando o **4º período de Ciência da Computação**.
 
-💻 Estudando e desenvolvendo projetos principalmente com **Java** e **C#/.NET**.
+🟣 Meu foco principal de estudos está em **C# e .NET**, buscando evoluir principalmente em desenvolvimento back-end e construção de aplicações.
 
-🌐 Também explorando desenvolvimento Front-end com **React, JavaScript, TypeScript, HTML e CSS**.
+🌐 Também estudo desenvolvimento Front-end com **React, TypeScript, JavaScript, HTML e CSS**.
 
-🛠️ Utilizo ferramentas como **Git, GitHub, Visual Studio, VS Code e IntelliJ IDEA** no meu processo de desenvolvimento.
+📚 Durante a graduação, também tenho contato com **Java, Python e C**, utilizando essas linguagens em exercícios, estruturas de dados, lógica e projetos acadêmicos.
 
-🌎 **Inglês em nível intermediário a avançado**, com foco em ampliar cada vez mais minha capacidade de consumir documentação e conteúdos técnicos.
+🛠️ No dia a dia utilizo ferramentas como **Git, GitHub, Visual Studio, VS Code e IntelliJ IDEA**.
 
-📚 Sempre buscando fortalecer meus fundamentos, aprender novas tecnologias e transformar conhecimento em projetos reais.
+🌎 Possuo **inglês intermediário a avançado**, principalmente para leitura de documentação e conteúdos técnicos.
 
 ```text
-[ CURRENT DIRECTIVE ]
+[ CURRENT OBJECTIVE ]
 
 Learn.
 Build.
-Experiment.
+Understand.
 Improve.
 Repeat.
 ```
 
 ---
 
-# `> tech_stack`
+# `> main_stack`
 
-### 💻 Languages
+### 🟣 Primary Focus
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,cs,js,ts" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet" />
 </p>
 
-### 🌐 Front-end
+**C# • .NET**
+
+---
+
+# `> frontend`
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,html,css" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css" />
 </p>
 
-### ⚙️ .NET
+**React • TypeScript • JavaScript • HTML • CSS**
+
+---
+
+# `> academic_and_additional`
+
+### 📚 Academic / Additional Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=dotnet" />
+<img src="https://skillicons.dev/icons?i=java,python,c" />
 </p>
 
-### 🛠️ Tools
+**Java • Python • C**
+
+---
+
+# `> tools`
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,visualstudio" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea" />
 </p>
 
 ---
@@ -90,16 +104,16 @@ Repeat.
 # `> currently_learning`
 
 ```bash
-┌──[ VITOR@DEV-SYSTEM ]─[ ~/learning ]
-└─$ cat roadmap.txt
+┌──[ VITOR@CYBER-SYSTEM ]─[ ~/learning ]
+└─$ cat current_modules.txt
 
-> Java
-> C# / .NET
+> C#
+> .NET
+> Backend Development
 > React
-> JavaScript
 > TypeScript
 > Git & GitHub
-> Software Development
+> Data Structures
 
 STATUS: LEARNING_IN_PROGRESS
 ```
@@ -109,13 +123,13 @@ STATUS: LEARNING_IN_PROGRESS
 # `> goals`
 
 ```text
+[→] Improve C# and .NET knowledge
+[→] Build backend applications
 [→] Strengthen programming fundamentals
-[→] Build better Java applications
-[→] Develop with C# / .NET
-[→] Improve React and Front-end skills
-[→] Build portfolio-quality projects
-[→] Improve software development practices
-[→] Keep evolving as a developer
+[→] Improve React and TypeScript skills
+[→] Develop portfolio projects
+[→] Improve Git and software development practices
+[→] Continue evolving through academic and personal projects
 ```
 
 ---
@@ -124,17 +138,17 @@ STATUS: LEARNING_IN_PROGRESS
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=C9D1D9"/>
+<a href="https://github.com/VitorDSouzaDev">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorDSouzaDev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D0815&title_color=A855F7&icon_color=E879F9&text_color=D8B4FE"/>
 </a>
 
-<a href="https://github.com/SEU_USUARIO">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9"/>
+<a href="https://github.com/VitorDSouzaDev">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDSouzaDev&layout=compact&hide_border=true&langs_count=8&bg_color=0D0815&title_color=A855F7&text_color=D8B4FE"/>
 </a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF"/>
+<img src="https://streak-stats.demolab.com?user=VitorDSouzaDev&theme=dark&hide_border=true&background=0D0815&ring=A855F7&fire=E879F9&currStreakLabel=A855F7"/>
 
 </div>
 
@@ -144,8 +158,8 @@ STATUS: LEARNING_IN_PROGRESS
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true&custom_title=SYSTEM%20ACTIVITY"/>
+<a href="https://github.com/VitorDSouzaDev">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VitorDSouzaDev&bg_color=0D0815&color=D8B4FE&line=A855F7&point=E879F9&area=true&hide_border=true&custom_title=SYSTEM%20ACTIVITY"/>
 </a>
 
 </div>
@@ -156,7 +170,7 @@ STATUS: LEARNING_IN_PROGRESS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=VitorDSouzaDev&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=4"/>
 
 </div>
 
@@ -166,7 +180,7 @@ STATUS: LEARNING_IN_PROGRESS
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/VitorDSouzaDev/VitorDSouzaDev/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 </div>
 
@@ -176,16 +190,12 @@ STATUS: LEARNING_IN_PROGRESS
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+<a href="https://github.com/VitorDSouzaDev">
+<img src="https://img.shields.io/badge/GitHub-0D0815?style=for-the-badge&logo=github&logoColor=A855F7"/>
 </a>
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
-</a>
-
-<a href="mailto:SEU_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
+<a href="mailto:vitor.a.rocha.souza@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D0815?style=for-the-badge&logo=gmail&logoColor=E879F9"/>
 </a>
 
 </div>
@@ -197,17 +207,16 @@ STATUS: LEARNING_IN_PROGRESS
 ```text
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║   "The future is built by those who keep learning."     ║
-║                                                          ║
-║              SYSTEM STATUS: ONLINE                      ║
-║              CONNECTION: STABLE                         ║
-║              DEVELOPER: ACTIVE                          ║
+║        NEURAL LINK: ACTIVE                               ║
+║        LEARNING MODULE: RUNNING                          ║
+║        SYSTEM STATUS: ONLINE                             ║
+║        NEXT OBJECTIVE: KEEP BUILDING                     ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,50:111827,100:050505&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:A855F7,50:1A102B,100:050505&animation=twinkling"/>
 
-<sub>© 2026 Vitor Alexandre • Built with code, curiosity & caffeine.</sub>
+<sub>© 2026 Vitor Alexandre • Learning, building and evolving.</sub>
 
 </div>
